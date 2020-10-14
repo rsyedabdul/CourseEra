@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COURSEERA.API", "COURSEERA.API\COURSEERA.API.csproj", "{230BDD7C-1516-4AD3-997C-11E9ABBD9F3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COURSEERA.ReactApp", "COURSEERA.ReactApp\COURSEERA.ReactApp.csproj", "{9C8599AA-253E-4E4E-BB17-07025A5C741A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{230BDD7C-1516-4AD3-997C-11E9ABBD9F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230BDD7C-1516-4AD3-997C-11E9ABBD9F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230BDD7C-1516-4AD3-997C-11E9ABBD9F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230BDD7C-1516-4AD3-997C-11E9ABBD9F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8599AA-253E-4E4E-BB17-07025A5C741A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8599AA-253E-4E4E-BB17-07025A5C741A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8599AA-253E-4E4E-BB17-07025A5C741A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8599AA-253E-4E4E-BB17-07025A5C741A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B49A27A-EE84-4A65-B00A-8EEC2D361C68}
+	EndGlobalSection
+EndGlobal
